@@ -1,1 +1,1 @@
-"# CSRF-Synchronizer-Token" 
+CSRF Synchronizer Token pattern sample project based PHP
